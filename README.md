@@ -1,2 +1,2 @@
-# -NYC-Python-Machine-Learning-Course
+# NYC Data Science Academy Python Machine Learning 
 Jupyter Notebooks from Class
